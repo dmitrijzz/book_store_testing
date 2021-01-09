@@ -1,7 +1,6 @@
 ## Репозиторий Дмитрия Заняла 
 
 
-[asa](https://github.com/dmitrijzz/portfolio.github.io/blob/master/shop.py) 
-#### примеры баг репортов, скопированные из Jira
+[#### примеры баг репортов, скопированные из Jira](https://github.com/dmitrijzz/portfolio.github.io/blob/master/shop.py) 
 #### HTML страница - резюме
 #### примеры автоматизации тестирования WEB страниц
